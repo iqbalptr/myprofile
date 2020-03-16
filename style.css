@@ -81,12 +81,12 @@ body {
     color: #08596A;
   }
   .tagline{
-    padding-top: 90px;
+    padding-top: 160px;
     position: absolute;
     transform: translate(-50%,-50%);
     text-align: center;
     top: 55%;
-    left: 71%;
+    left: 61%;
 
   }
   .tagline p{
@@ -105,5 +105,50 @@ body {
   .down img{
     width: 53%;
   }
+
+  .about {
+      padding: 700px 50px;
+
+  }
+
+  .about h1{
+    color: #08596A;
+    text-align: left;
+    font-family: 'Noto Serif JP', sans-serif;
+    font-size: 50px;
+}
+
+.section-title{
+    padding-left: 4.1%;
+}
+
+  .right-2 {
+    padding-bottom: 130%;
+    position: relative;
+    top: 10%;
+    left:96%;
+    transform: translate(-50%,-50%);
+  }
+  .right-2 img{
+    width: 43%;
+  }
+
+ .info ul {
+    list-style: none;
+
+ }
+
+.info ul li {
+    padding: 8px;
+    list-style: none;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color:  #08596A;
+    line-height: 2em;
+    
+
+}
  
  
